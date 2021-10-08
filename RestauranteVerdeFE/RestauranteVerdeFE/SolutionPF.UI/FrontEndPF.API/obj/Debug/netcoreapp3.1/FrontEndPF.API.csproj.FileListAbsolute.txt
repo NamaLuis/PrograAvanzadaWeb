@@ -1,0 +1,275 @@
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.RazorAssemblyInfo.cache
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.RazorAssemblyInfo.cs
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\FrontEndPF.API.exe
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\FrontEndPF.API.deps.json
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\FrontEndPF.API.runtimeconfig.json
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\FrontEndPF.API.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\FrontEndPF.API.dll
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\FrontEndPF.API.pdb
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\FrontEndPF.API.Views.dll
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\FrontEndPF.API.Views.pdb
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\staticwebassets\FrontEndPF.API.StaticWebAssets.Manifest.cache
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\staticwebassets\FrontEndPF.API.StaticWebAssets.xml
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\FrontEndPF.API.styles.css
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.TagHelpers.input.cache
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.TagHelpers.output.cache
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.RazorCoreGenerate.cache
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.RazorTargetAssemblyInfo.cs
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.Views.pdb
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.csproj.CopyComplete
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.dll
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.pdb
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Create.cshtml.g.cs
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Delete.cshtml.g.cs
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Details.cshtml.g.cs
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Edit.cshtml.g.cs
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Create.cshtml.g.cs
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Delete.cshtml.g.cs
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Details.cshtml.g.cs
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Edit.cshtml.g.cs
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Usuario\source\repos\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutOLD.cshtml.g.cs
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\FrontEndPF.API.exe
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\FrontEndPF.API.deps.json
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\FrontEndPF.API.runtimeconfig.json
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\FrontEndPF.API.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\FrontEndPF.API.dll
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\FrontEndPF.API.pdb
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\FrontEndPF.API.Views.dll
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\FrontEndPF.API.Views.pdb
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.RazorAssemblyInfo.cache
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.RazorAssemblyInfo.cs
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\staticwebassets\FrontEndPF.API.StaticWebAssets.Manifest.cache
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\staticwebassets\FrontEndPF.API.StaticWebAssets.xml
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\FrontEndPF.API.styles.css
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.TagHelpers.input.cache
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.TagHelpers.output.cache
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.RazorCoreGenerate.cache
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Create.cshtml.g.cs
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Delete.cshtml.g.cs
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Details.cshtml.g.cs
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Edit.cshtml.g.cs
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Index.cshtml.g.cs
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Create.cshtml.g.cs
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Delete.cshtml.g.cs
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Details.cshtml.g.cs
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Edit.cshtml.g.cs
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Index.cshtml.g.cs
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutNEW.cshtml.g.cs
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutOLD.cshtml.g.cs
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.RazorTargetAssemblyInfo.cs
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.Views.pdb
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.csproj.CopyComplete
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.dll
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.pdb
+C:\Users\Usuario\Desktop\LlaveLuis\Transitorios Agosto\Cursos\Cursos B - 2021\1. Progra avanzada Web\PF_hasta_Semana_10_practica\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\FrontEndPF.API.exe
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\FrontEndPF.API.deps.json
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\FrontEndPF.API.runtimeconfig.json
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\FrontEndPF.API.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\FrontEndPF.API.dll
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\FrontEndPF.API.pdb
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\FrontEndPF.API.Views.dll
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\FrontEndPF.API.Views.pdb
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.RazorAssemblyInfo.cache
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.RazorAssemblyInfo.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\staticwebassets\FrontEndPF.API.StaticWebAssets.Manifest.cache
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\staticwebassets\FrontEndPF.API.StaticWebAssets.xml
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\FrontEndPF.API.styles.css
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.TagHelpers.input.cache
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.TagHelpers.output.cache
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.RazorCoreGenerate.cache
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Create.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Delete.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Details.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Edit.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Create.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Delete.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Details.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Edit.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutNEW.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutOLD.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.RazorTargetAssemblyInfo.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.Views.pdb
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.csproj.CopyComplete
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.dll
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.pdb
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\FrontEndPF.API.exe
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\FrontEndPF.API.deps.json
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\FrontEndPF.API.runtimeconfig.json
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\FrontEndPF.API.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\FrontEndPF.API.dll
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\FrontEndPF.API.pdb
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\FrontEndPF.API.Views.dll
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\FrontEndPF.API.Views.pdb
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.RazorAssemblyInfo.cache
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.RazorAssemblyInfo.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\staticwebassets\FrontEndPF.API.StaticWebAssets.Manifest.cache
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\staticwebassets\FrontEndPF.API.StaticWebAssets.xml
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\FrontEndPF.API.styles.css
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.TagHelpers.input.cache
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.TagHelpers.output.cache
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.RazorCoreGenerate.cache
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Create.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Delete.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Details.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Edit.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Create.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Delete.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Details.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Edit.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.RazorTargetAssemblyInfo.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.Views.pdb
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.csproj.CopyComplete
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.dll
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.pdb
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Create.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Delete.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Details.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Edit.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Create.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Delete.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Details.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Edit.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Proveedores\Create.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Proveedores\Delete.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Proveedores\Details.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Proveedores\Edit.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Proveedores\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\FrontEndPF.API.exe
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\FrontEndPF.API.deps.json
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\FrontEndPF.API.runtimeconfig.json
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\FrontEndPF.API.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\FrontEndPF.API.dll
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\FrontEndPF.API.pdb
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\FrontEndPF.API.Views.dll
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\FrontEndPF.API.Views.pdb
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.RazorAssemblyInfo.cache
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.RazorAssemblyInfo.cs
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\staticwebassets\FrontEndPF.API.StaticWebAssets.Manifest.cache
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\staticwebassets\FrontEndPF.API.StaticWebAssets.xml
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\FrontEndPF.API.styles.css
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.TagHelpers.input.cache
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.TagHelpers.output.cache
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.RazorCoreGenerate.cache
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Create.cshtml.g.cs
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Delete.cshtml.g.cs
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Details.cshtml.g.cs
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Edit.cshtml.g.cs
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Create.cshtml.g.cs
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Delete.cshtml.g.cs
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Details.cshtml.g.cs
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Edit.cshtml.g.cs
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Empleado\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Create.cshtml.g.cs
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Delete.cshtml.g.cs
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Details.cshtml.g.cs
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Edit.cshtml.g.cs
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Proveedores\Create.cshtml.g.cs
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Proveedores\Delete.cshtml.g.cs
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Proveedores\Details.cshtml.g.cs
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Proveedores\Edit.cshtml.g.cs
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Proveedores\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Create.cshtml.g.cs
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Delete.cshtml.g.cs
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Details.cshtml.g.cs
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Edit.cshtml.g.cs
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Puesto\Index.cshtml.g.cs
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.RazorTargetAssemblyInfo.cs
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.Views.pdb
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.csproj.CopyComplete
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.dll
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.pdb
+C:\Users\Usuario\source\repos\PF_PrograAvanzadaWeb\RestauranteVerdeFE\RestauranteVerdeFE\SolutionPF.UI\FrontEndPF.API\obj\Debug\netcoreapp3.1\FrontEndPF.API.genruntimeconfig.cache
